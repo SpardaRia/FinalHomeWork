@@ -1,0 +1,15 @@
+C:\ПрогиУчебка\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.exe
+C:\ПрогиУчебка\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.deps.json
+C:\ПрогиУчебка\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.runtimeconfig.json
+C:\ПрогиУчебка\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.dll
+C:\ПрогиУчебка\FinalHomeWork\bin\Debug\net6.0\FinalHomeWork.pdb
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.csproj.AssemblyReference.cache
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.AssemblyInfoInputs.cache
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.AssemblyInfo.cs
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.csproj.CoreCompileInputs.cache
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.dll
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\refint\FinalHomeWork.dll
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.pdb
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\FinalHomeWork.genruntimeconfig.cache
+C:\ПрогиУчебка\FinalHomeWork\obj\Debug\net6.0\ref\FinalHomeWork.dll
