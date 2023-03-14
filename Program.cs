@@ -5,7 +5,7 @@ string[] TextInput(string messege)
 {
     Console.WriteLine(messege);
     string text = Console.ReadLine()!.Replace(" ", "").Replace("\"", "");
-
+    
     return text.Split(",");
 }
 
